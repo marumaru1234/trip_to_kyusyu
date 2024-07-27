@@ -624,9 +624,9 @@ small p a:hover {
     }
 
     /* background */
-    .backGround {
+    /*.backGround {
         height: 50vh;
-    }
+    }*/
 
     /* 区切り */
     .separatorArea p {
